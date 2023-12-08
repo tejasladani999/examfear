@@ -37,3 +37,5 @@ We welcome contributions to enhance and expand ExamFear.
 License
 ExamFear is licensed under the MIT License. Feel free to use, modify, and distribute the code for educational purposes.
 
+out site is live on internet you can find from following URL:
+Your site is live at https://tejasladani999.github.io/examfear/
