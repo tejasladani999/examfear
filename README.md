@@ -1,4 +1,4 @@
-#ExamFear
+#ExamFear provides free educational content, especially focusing on Computer Science subjects like Android, Java, JavaScript, Web Analytics, Software Engineer primarily targeting students preparing for exams.
 
 About
 ExamFear is a static website built using HTML, CSS, Bootstrap, and JavaScript. It serves as a platform to provide educational resources and materials for exam preparation. Whether you're a student looking for study materials or a teacher wanting to share resources, ExamFear is here to help!
